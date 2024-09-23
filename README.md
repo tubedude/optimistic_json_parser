@@ -6,8 +6,6 @@ OptimisticJsonParser is an Elixir library designed to parse potentially incomple
 
 - Parses complete and incomplete JSON strings
 - Attempts to balance unclosed structures (objects, arrays, or strings) before parsing
-- Provides clear error handling for invalid or unparseable JSON
-- Optimized for performance with large JSON strings
 
 ## Installation
 
